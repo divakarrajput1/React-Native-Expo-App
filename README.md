@@ -1,7 +1,7 @@
 # React-Native-Expo-App
-    # DAY 1
-    
-    # welcome to our expo app
+# welcome to our expo app
+
+# DAY 1 ( 9 JUly'24 )
 
    # CMDS
     npx create-expo-app demo_app
@@ -17,7 +17,7 @@
             1.SignUp.js
             2.Login.js
             3.Logout.js
-  # DAY 2
+  # DAY 2 (10 July'24 )
   # Game Card Feed:
     Created a component to fetch and display game cards.
     Used pagination to load more cards on scroll.
