@@ -1,4 +1,4 @@
-// Login.js
+// Login.js(d1)
 import React, { useState } from 'react';
 import { View, TextInput, Button, Text } from 'react-native';
 import firebase from '../firebase';

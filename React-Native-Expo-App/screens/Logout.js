@@ -1,4 +1,4 @@
-// Logout.js
+// Logout.js(d1)
 import React from 'react';
 import { View, Button } from 'react-native';
 import firebase from '../firebase';

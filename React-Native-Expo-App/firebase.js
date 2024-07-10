@@ -1,4 +1,4 @@
-// firebase.js
+// firebase.js(d1)
 import firebase from "firebase/app";
 import "firebase/auth";
 
